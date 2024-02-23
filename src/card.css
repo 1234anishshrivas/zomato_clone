@@ -1,0 +1,10 @@
+.img-card{
+    width: 360px;
+    height: 360px;
+    cursor: pointer;
+
+}
+.img-card img{
+    width: 100%;
+    object-fit: cover;
+}
